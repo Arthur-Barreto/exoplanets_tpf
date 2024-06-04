@@ -3,6 +3,7 @@ ipython
 isort
 jupyter
 jupyterlab
+lightkurve
 matplotlib
 numpy
 pandas

@@ -1,0 +1,16 @@
+ipykernel
+ipython
+isort
+jupyter
+jupyterlab
+lightkurve
+matplotlib
+numpy
+pandas
+pylint
+pytest
+scikit-learn
+scipy
+toml
+tqdm
+yapf
